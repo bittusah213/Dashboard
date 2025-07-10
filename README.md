@@ -22,4 +22,5 @@ This store wants to create an sales report last few yeasrs.So that the owner of 
 -Add the slicicer the filter the reports.
 
 ## Dashboard
-<img scrc="https://github.com/bittusah213/Dashboard/blob/main/Sales%20dashboard.png">
+<img width="1335" height="762" alt="Sales dashboard" src="https://github.com/user-attachments/assets/be06f8a3-8765-409c-af6f-5f51fe309a2d" />
+
