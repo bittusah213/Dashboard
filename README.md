@@ -22,4 +22,4 @@ Create the the Kpi for follow the question.
 Add the slicicer the filter the reports.
 
 ## Dashboard
-<img scrc="
+<img scrc="https://github.com/bittusah213/Dashboard/blob/main/Sales%20dashboard.png">
